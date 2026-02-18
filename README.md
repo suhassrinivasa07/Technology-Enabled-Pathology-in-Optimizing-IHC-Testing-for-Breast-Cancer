@@ -129,7 +129,7 @@ models/
 
 ### 4️⃣ Start the Flask server
 ```bash
-python app.py
+python main.py
 ```
 
 Then open:
