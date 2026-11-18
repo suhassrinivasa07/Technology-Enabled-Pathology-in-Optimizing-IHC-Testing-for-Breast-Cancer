@@ -175,7 +175,8 @@ IHCGenie/
 
 
 
-User uploads an H&E image  
+1. User uploads an H&E image  
+
 2. Backend saves file into `/uploads/`  
 
 3. ML model converts it → IHC-style image  
